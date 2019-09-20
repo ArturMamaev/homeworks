@@ -1,0 +1,69 @@
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+
+body {
+  padding: 30px;
+  padding-right: 25%;
+  background: url("../img/Rings.jpg") center;
+  background-size: 100%;
+  font-size: 20px;
+  }
+
+.maintitle {
+  color: #d9dc49;
+  font-size: 50px;
+}
+
+.description {
+  font-style: italic;
+  font-weight: bold;
+  color: #f6f6d1;
+}
+
+.booktitle {
+  color: #fff;
+  font-size: 40px;
+}
+
+.contents {
+   font-size: 20px;
+  color: #ce0f1c;
+  position: fixed;
+  right: 10px;
+  top: 10%;
+  padding: 2px;
+  border: 1px solid #333;
+  line-height: .8em;
+  background: #fffaaa;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 30px;
+  border: 3px solid;
+}
+
+.chapter_1 {
+  color: #ffffff;
+}
+
+.chapter_2 {
+  color: #e1e9e9;
+  text-decoration: underline;
+}
+
+.chapter_3 {
+  color: #e0c9df;
+  text-decoration: line-through;
+}
+
+.chapter_4 {
+  color: #7cd744;
+  text-decoration: overline;
+}
+
+.chapter_5 {
+  font-weight: bold;
+  color: #33cccc;
+}
