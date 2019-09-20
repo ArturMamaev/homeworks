@@ -1,0 +1,60 @@
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+
+body {
+  padding: 30px;
+  background-image: url(http://rulib.info/uploads/11_05_2013/view/201210/oboik.ru_53072.jpg);
+  background-size: 100%;
+  }
+
+.maintitle {
+  color: #d9dc49;
+  font-size: 50px;
+}
+
+.description {
+  font-style: italic;
+  font-weight: bold;
+  color: #f6f6d1;
+}
+
+.booktitle {
+  color: #ffffff;
+  font-size: 40px;
+}
+
+.contents {
+  font-size: 20px;
+  color: #ce0f1c;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 30px;
+  border: 3px solid;
+}
+
+.chapter_1 {
+  color: #ffffff;
+}
+
+.chapter_2 {
+  color: #e1e9e9;
+  text-decoration: underline;
+}
+
+.chapter_3 {
+  color: #e0c9df;
+  text-decoration: line-through;
+}
+
+.chapter_4 {
+  color: #7cd744;
+  text-decoration: overline;
+}
+
+.chapter_5 {
+  font-weight: bold;
+  color: #33cccc;
+}
